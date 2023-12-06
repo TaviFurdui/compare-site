@@ -1,0 +1,83 @@
+id,subcategory,category
+1,laptop,Laptopuri
+2,genti laptop,Laptopuri
+3,docking stations,Laptopuri
+4,standuri coolere,Laptopuri
+5,memorii laptop,Laptopuri
+6,incarcatoare laptop,Laptopuri
+7,baterii laptop,Laptopuri
+8,accesorii laptop,Laptopuri
+9,telefoane mobile,Telefoane
+10,baterii telefoane,Telefoane
+11,incarcatoare telefoane,Telefoane
+12,cabluri date telefoane,Telefoane
+13,adaptoare telefoane mobile,Telefoane
+14,carduri memorie,Telefoane
+15,accesorii telefoane,Altele
+16,telefoane fir,Telefoane
+17,tablete,Tablete
+18,huse tablete,Tablete
+19,incarcatoare tablete,Tablete
+20,alte accesorii tablete,Tablete
+21,desktop pc,"PC, periferice"
+22,accesorii monitoare,"PC, periferice"
+23,placi video,Componente PC
+24,placi baza,Componente PC
+25,placi sunet,Componente PC
+26,memorii,Componente PC
+27,procesoare,Componente PC
+28,ssd,Componente PC
+29,hdd,Componente PC
+30,carcase,Componente PC
+31,surse pc,Componente PC
+32,mouse,"PC, periferice"
+33,tastaturi,"PC, periferice"
+34,boxe pc,Audio
+35,casti pc,Audio
+36,microfoane pc,Audio
+37,mousepad,"PC, periferice"
+38,camere web,"PC, periferice"
+39,televizoare,Televizoare
+40,telecomenzi,Televizoare
+41,accesorii tv,Televizoare
+42,boxe,Audio
+43,mixere audio,Audio
+44,boxe portabile,Audio
+45,casti bluetooth telefoane,Audio
+46,aparate foto mirrorless,Foto-video
+47,obiective,Foto-video
+48,genti huse foto video,Foto-video
+49,drone,Foto-video
+50,frigidere,Electrocasnice mari
+51,masini spalat rufe,Electrocasnice mari
+52,cuptoare incorporabile,Electrocasnice mari
+53,aragazuri,Electrocasnice mari
+54,cuptoare microunde,Electrocasnice mici
+55,mixere,Electrocasnice mici
+56,accesorii piese electrocasnice bucatarie,Electrocasnice mici
+57,aspiratoare,Electrocasnice mici
+58,espressoare,Electrocasnice mici
+59,jocuri consola pc,"Gaming, console"
+60,scaune gaming,"Gaming, console"
+61,casti,Audio
+62,camere,Foto-video
+63,coolere,Laptopuri
+64,monitoare,"PC, periferice"
+65,imprimante,"PC, periferice"
+66,masini de spalat vase,Electrocasnice mari
+67,cuptoare,Electrocasnice mari
+68,plite,Electrocasnice mari
+69,fiare de calcat,Electrocasnice mici
+70,fierbatoare,Electrocasnice mici
+71,ventilatoare,Ventilatoare
+72,console,"Gaming, console"
+73,aer conditionat,Ventilatoare
+74,smartwatch,Altele
+75,accesorii smartwatch,Altele
+76,dispozitive spionaj,Altele
+77,alte gadgeturi,Altele
+78,antivirus,Altele
+79,sisteme operare,Altele
+80,memorii usb,Altele
+81,accesorii it,Altele
+82,usb,Altele

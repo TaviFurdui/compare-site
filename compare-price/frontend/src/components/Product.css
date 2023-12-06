@@ -1,0 +1,121 @@
+.product-card {
+    text-decoration: none;
+    color: #111;
+    padding: 10px;
+    margin: 0px 20px;
+    display: flex;
+    flex-direction: column; 
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(93, 182, 209, 0.2);
+    transition: transform 0.2s ease-in-out;
+    width: 15%;
+    &:hover {
+      transform: scale(1.03);
+    }
+  }
+  
+  .product-image {
+    width: 80%; 
+    height: 50%;
+    object-fit: contain;
+    border-radius: 8px 8px 0 0; 
+  }
+  
+  .product-info {
+    padding: 16px;
+    text-align: left;
+  }
+  
+  .product-name {
+    font-size: 14px;
+    margin-bottom: 16px;
+  }
+  
+  .product-price {
+    font-size: 16px;
+    color: rgb(93, 182, 209);
+    font-weight: bold;
+  }
+  
+  .product-rating {
+    font-size: 14px;
+    color: rgb(255, 196, 0);
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  .product-link {
+    align-self: flex-start; 
+    margin-top: auto; 
+    padding: 8px 16px;
+    background-color: rgb(93, 182, 209);
+    color: #fff;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background-color 0.2s ease-in-out;
+  
+    &:hover {
+      background-color: rgb(37, 160, 197);
+    }
+  }
+  @media (max-width: 768px) {
+    .product-card {
+      text-decoration: none;
+      color: #111;
+      padding: 10px;
+      margin: 0px 10px;
+      display: flex;
+      flex-direction: column; 
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      overflow: hidden;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 20px;
+      box-shadow: 0 4px 8px rgba(93, 182, 209, 0.2);
+      transition: transform 0.2s ease-in-out;
+      width: 100%; 
+      
+      &:hover {
+        transform: scale(1.03);
+      }
+    }
+    
+    .product-image {
+      width: 100%; 
+      height: auto; 
+      object-fit: contain;
+      border-radius: 8px 8px 0 0; 
+    }
+    
+    .product-info {
+      padding: 16px;
+      text-align: left;
+    }
+    
+    .product-name {
+      font-size: 14px;
+      margin-bottom: 16px;
+    }
+    
+    .product-price {
+      font-size: 16px;
+      color: rgb(93, 182, 209);
+      font-weight: bold;
+    }
+    
+    .product-rating {
+      font-size: 14px;
+      color: rgb(255, 196, 0);
+      margin-bottom: 10px;
+      font-weight: bold;
+    }
+    
+  }
+  
+  
